@@ -1,4 +1,10 @@
-# Bloody-Proxy-Scraper
+<h2 align="center">
+  Bloody-Proxy-Scraper was made with
+
+Love ❌ code ✅
+
+</h2>
+
 Fast proxy scraper that scrapes proxies from 85+ URLs. Made by Bloody.
 If you have any errors, make an issue, if you want more URLs to be added, make a request listing the URLs (they must not already be in the script)
 
